@@ -3,7 +3,6 @@ ZAVRSNI PROJEKAT XIII GENERACIJA - BEOGRAD
 Zavrsni projekat pise se u programskom jeziku java koristeci selenium, postujuci POM (page object model).
 Testovi se pisu samo za “happy path” (pozitivne scenarije) koristeci testNG.
 Radi se 4 dana, za vreme predavanja.
-Zavrsen projekat kaci se na vas github i u folder na drajvu sa vasim imenom (naziv foldera: zavrsni projekat; nacin kacenja isti kao i sve do sada).
 
 Testira se sajt www.demoqa.com.
 
